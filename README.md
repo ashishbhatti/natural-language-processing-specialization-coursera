@@ -1,4 +1,4 @@
-# natural-language-processing-specialization-coursera
+# Natural Language Processing Specialization Coursera
 
 The specialization consists of the following 4 courses.
 1. Natural Language Processing with Classification and Vector Spaces
